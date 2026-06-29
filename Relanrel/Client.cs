@@ -45,7 +45,7 @@ public class Client
 
     private void TickSend(DateTime time)
     {
-        if(time < LastRequestTime + RequestPeriod)
+        if(LastRequestTime + RequestPeriod < time)
         {
             // need to send another request
             RequestPacket request = new RequestPacket(Magic, RequestId);
