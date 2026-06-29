@@ -1,0 +1,15 @@
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/bin/Debug/net10.0/Relanrel
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/bin/Debug/net10.0/Relanrel.deps.json
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/bin/Debug/net10.0/Relanrel.runtimeconfig.json
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/bin/Debug/net10.0/Relanrel.dll
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/bin/Debug/net10.0/Relanrel.pdb
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.GeneratedMSBuildEditorConfig.editorconfig
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.AssemblyInfoInputs.cache
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.AssemblyInfo.cs
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.csproj.CoreCompileInputs.cache
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.sourcelink.json
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.dll
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/refint/Relanrel.dll
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.pdb
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/Relanrel.genruntimeconfig.cache
+/home/kidochi/Hacking/Gaming/Relanrel/Relanrel/obj/Debug/net10.0/ref/Relanrel.dll
